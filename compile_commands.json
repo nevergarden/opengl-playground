@@ -1,0 +1,28 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Iglad-opengl-4.5.core-noext/include",
+      "-o",
+      "ex01",
+      "glad-opengl-4.5.core-noext/src/glad.c"
+    ],
+    "directory": "/home/nevergarden/Code/nevergarden/opengl-playground",
+    "file": "/home/nevergarden/Code/nevergarden/opengl-playground/glad-opengl-4.5.core-noext/src/glad.c",
+    "output": "/home/nevergarden/Code/nevergarden/opengl-playground/ex01"
+  },
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Iglad-opengl-4.5.core-noext/include",
+      "-o",
+      "ex01",
+      "ex01.c"
+    ],
+    "directory": "/home/nevergarden/Code/nevergarden/opengl-playground",
+    "file": "/home/nevergarden/Code/nevergarden/opengl-playground/ex01.c",
+    "output": "/home/nevergarden/Code/nevergarden/opengl-playground/ex01"
+  }
+]
